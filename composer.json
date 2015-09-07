@@ -1,0 +1,13 @@
+{
+	"name": "shfeat/ci-admin",
+	"description": "CodeIgniter Admin",
+	"type": "project",
+	"license": "MIT",
+	"require": {
+		"php": ">=5.4",
+		"almasaeed2010/adminlte": "~2.0"
+	},
+	"require-dev": {
+		"mikey179/vfsStream": "1.1.*"
+	}
+}
